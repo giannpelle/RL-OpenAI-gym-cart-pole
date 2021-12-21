@@ -26,19 +26,22 @@ The [agents](https://github.com/giannpelle/RL-OpenAI-gym-cart-pole/blob/master/a
 ## Double Deep Q-Network
 It was developed following the algorithm available in *Deep Reinforcement Learning with Double Q-learning* (Hasselt et al., 2015), with the following optimization technique:
 1. *Methods and Apparatus for Reinforcement Learning* (Mnih et al., 2017)
-The code implementation is available [here](https://github.com/giannpelle/RL-OpenAI-gym-cart-pole/blob/main/agents/DoubleDQN_agent.py).
+
+The code implementation is available [here](https://github.com/giannpelle/RL-OpenAI-gym-cart-pole/blob/master/agents/DoubleDQN_agent.py).
 
 ## Prioritized Double Deep Q-Network
 It was developed following the algorithm available in *Deep Reinforcement Learning with Double Q-learning* (Hasselt et al., 2015), with the following 2 optimization techniques:
 1. *Methods and Apparatus for Reinforcement Learning* (Mnih et al., 2017)
 2. *Prioritized Experience Replay* (Schaul et al., 2016)
-The code implementation is available [here](https://github.com/giannpelle/RL-OpenAI-gym-cart-pole/blob/main/agents/PerDoubleDQN_agent.py).
+
+The code implementation is available [here](https://github.com/giannpelle/RL-OpenAI-gym-cart-pole/blob/master/agents/PerDoubleDQN_agent.py).
 
 ## Dueling Prioritized Double Deep Q-Network
 It was developed following the algorithm available in *Dueling Network Architectures for Deep Reinforcement Learning* (Wang et al., 2016), with the following 2 optimization techniques:
 1. *Methods and Apparatus for Reinforcement Learning* (Mnih et al., 2017)
 2. *Prioritized Experience Replay* (Schaul et al., 2016)
-The code implementation is available [here](https://github.com/giannpelle/RL-OpenAI-gym-cart-pole/blob/main/agents/DuelingPerDoubleDQN_agent.py).
+
+The code implementation is available [here](https://github.com/giannpelle/RL-OpenAI-gym-cart-pole/blob/master/agents/DuelingPerDoubleDQN_agent.py).
 
 ## Installation
 
