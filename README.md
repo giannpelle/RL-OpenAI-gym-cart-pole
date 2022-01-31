@@ -43,6 +43,19 @@ It was developed following the algorithm available in *Dueling Network Architect
 
 The code implementation is available [here](https://github.com/giannpelle/RL-OpenAI-gym-cart-pole/blob/master/agents/DuelingPerDoubleDQN_agent.py).
 
+## Results
+### Double DQN agent
+![results](/plots/double_dqn_result.png)
+
+### PER Double DQN agent
+![results](/plots/double_per_dqn_result.png)
+
+### Dueling PER Double DQN agent
+![results](/plots/dueling_double_per_dqn_result.png)
+
+### Average performance comparison
+![results](/plots/boxplot.png)
+
 ## Installation
 
 ```bash
